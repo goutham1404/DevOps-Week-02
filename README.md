@@ -1,5 +1,3 @@
-# DevOps-Week-02
-Version : Final Infrastructure Project
 
 # AWS Web-Tier Infrastructure Automation (Terraform)
 
