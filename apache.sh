@@ -1,3 +1,5 @@
+# Web Application code 
+
 #! /bin/bash
 yum install httpd git -y
 systemctl start httpd
